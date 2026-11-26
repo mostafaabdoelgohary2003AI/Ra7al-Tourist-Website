@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="128" alt="Ra7al-Tourist-Website logo"></p>
+
 <h1 align="left">Raحal Travel Website</h1>
 
 ###
